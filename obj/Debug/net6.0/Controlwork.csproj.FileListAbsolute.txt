@@ -1,0 +1,15 @@
+C:\Users\AREK\Desktop\gid education\Controlwork\bin\Debug\net6.0\Controlwork.exe
+C:\Users\AREK\Desktop\gid education\Controlwork\bin\Debug\net6.0\Controlwork.deps.json
+C:\Users\AREK\Desktop\gid education\Controlwork\bin\Debug\net6.0\Controlwork.runtimeconfig.json
+C:\Users\AREK\Desktop\gid education\Controlwork\bin\Debug\net6.0\Controlwork.dll
+C:\Users\AREK\Desktop\gid education\Controlwork\bin\Debug\net6.0\Controlwork.pdb
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.csproj.AssemblyReference.cache
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.AssemblyInfoInputs.cache
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.AssemblyInfo.cs
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.csproj.CoreCompileInputs.cache
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.dll
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\refint\Controlwork.dll
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.pdb
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\Controlwork.genruntimeconfig.cache
+C:\Users\AREK\Desktop\gid education\Controlwork\obj\Debug\net6.0\ref\Controlwork.dll
